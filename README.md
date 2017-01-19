@@ -1,12 +1,12 @@
 This project was developed by kevin.qi@bethesdasofttech.com
 
-A demo of this program can be found at https://certificatedemo-3cdb4.firebaseapp.com/
+A demo of this program can be found at [here] (https://certificatedemo-3cdb4.firebaseapp.com/)
 
 user: react@example.com
 
 password: react@example.com
 
-Steps to install this program in linux
+##Steps to install this program in linux##
 
 1. Install node js
 curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash -
