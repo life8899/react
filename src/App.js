@@ -8,11 +8,11 @@ import Add from './Add';
 import * as firebase from 'firebase';
 
 const config = {
-  apiKey: "AIzaSyDgUPM9zGJa_Yg4no2mo7AXWO2J0FaHD7o",
-  authDomain: "certificate-aba5b.firebaseapp.com",
-  databaseURL: "https://certificate-aba5b.firebaseio.com",
-  storageBucket: "certificate-aba5b.appspot.com",
-  messagingSenderId: "1005651535526"
+  apiKey: "AIzaSyDI3YLu22asYO-0ScXIhTP416B_yc7TTqw",
+    authDomain: "certificatedemo-3cdb4.firebaseapp.com",
+    databaseURL: "https://certificatedemo-3cdb4.firebaseio.com",
+    storageBucket: "certificatedemo-3cdb4.appspot.com",
+    messagingSenderId: "415903522626"
 };
 
 class App extends Component {
