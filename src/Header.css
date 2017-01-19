@@ -1,0 +1,41 @@
+.body-top {
+  padding-top: 240px;
+  
+}
+
+.body-bottom {
+  padding-top: 50px;
+  
+}
+
+.header {
+  background-color: #337ab7; 
+  background-size: cover; 
+  padding-top: 100px;
+
+}
+.header-top {
+  background-color: #337ab7; 
+  background-size: cover; 
+  padding-top: 100px;
+
+}
+
+.header-bottom{
+  background-color: #337ab7; 
+  background-size: cover; 
+  padding-top: 100px;
+  margin-bottom: 30px;
+
+}
+
+.header-text {
+  margin-bottom: 0px;
+  color: white;
+}
+
+.navbar-right {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  padding-top: 7px;
+}
