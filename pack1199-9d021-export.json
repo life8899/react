@@ -1,0 +1,126 @@
+{
+  "eventSummary" : {
+    "E_1" : {
+      "icon" : "E_1/img_1.png",
+      "participants" : "30",
+      "terminateDate" : "03/15/2017",
+      "title" : "Cub Scout Pack1199 Spring Family Overnight"
+    }
+  },
+  "events" : {
+    "E_1" : {
+      "infor" : {
+        "coOrganizers" : {
+          "U_2" : true
+        },
+        "createDate" : "01/20/2017",
+        "description" : "<div><h2>Activities to include:</h2><p>Fishing, Nature Hike, Sports and Games, Playground, Geocaching, Giant Slides, Camp Fire, STEM Lesson, Challenge course, Opportunities for awards, and much more!</p></div>",
+        "ends" : {
+          "date" : "04/30/2017",
+          "time" : "11:00am"
+        },
+        "images" : {
+          "IMG_1" : "E_1/img_1.png",
+          "IMG_2" : "E_1/img_2.png"
+        },
+        "location" : {
+          "address" : "Mountainside Retreat Center",
+          "address2" : "2914 Roderick Road",
+          "city" : "Urbana",
+          "state" : "MD",
+          "zip" : "21704"
+        },
+        "modifyDate" : "01/20/2017",
+        "organizer" : "U_1",
+        "starts" : {
+          "date" : "04/29/2017",
+          "time" : "10:00am"
+        },
+        "terminateDate" : "03/15/2017",
+        "title" : "Cub Scout Pack1199 Spring Family Overnight"
+      },
+      "participants" : {
+        "P_1" : {
+          "age" : "35",
+          "den" : "6",
+          "firstName" : "Sam",
+          "healthForm" : false,
+          "lastName" : "Don",
+          "paid" : true,
+          "tasks" : {
+            "TK_1" : true,
+            "TK_2" : true
+          },
+          "user" : "U_1"
+        },
+        "P_2" : {
+          "age" : "5",
+          "den" : "6",
+          "firstName" : "Matt",
+          "healthForm" : false,
+          "lastName" : "Don",
+          "paid" : true,
+          "user" : "U_1"
+        }
+      },
+      "tasks" : {
+        "TK_1" : {
+          "comments" : {
+            "CM_1" : {
+              "author" : "P_1",
+              "context" : "I can bring string with stickers.",
+              "date" : "01/21/2017 10:20:20"
+            }
+          },
+          "description" : "Need 2-3 people with fish pole materials",
+          "title" : "Fishing",
+          "volunteers" : {
+            "P_1" : true
+          }
+        },
+        "TK_2" : {
+          "comments" : {
+            "CM_1" : {
+              "author" : "P_1",
+              "context" : "I can only help in the morning.",
+              "date" : "01/21/2017 10:20:20"
+            }
+          },
+          "description" : "Need 2 people to coordinate the geocaching. Also need donation such toys or trinkets.",
+          "title" : "Geocaching",
+          "volunteers" : {
+            "P_1" : true
+          }
+        }
+      }
+    }
+  },
+  "users" : {
+    "U_1" : {
+      "email" : "react@example.com",
+      "eventsCreated" : {
+        "E_1" : true
+      },
+      "eventsJoined" : {
+        "E_1" : true,
+        "E_2" : true
+      },
+      "firstName" : "Sam",
+      "lastName" : "Don",
+      "password" : "react@example.com"
+    },
+    "U_2" : {
+      "email" : "tom@example.com",
+      "eventsCreated" : {
+        "E_2" : true
+      },
+      "eventsJoined" : {
+        "E_1" : true,
+        "E_2" : true
+      },
+      "firstName" : "Tom",
+      "lastName" : "Roth",
+      "password" : "tom@example.com"
+    }
+  }
+}
